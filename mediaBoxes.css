@@ -435,6 +435,7 @@
   .media-boxes-no-more-entries{
     filter: alpha(opacity=20);
     opacity: 0.2;
+      display: none;
   }
 
 
