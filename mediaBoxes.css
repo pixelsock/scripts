@@ -64,11 +64,7 @@
 	.media-boxes-load-more-button, 
 	.media-boxes-filter,
 	.media-boxes-drop-down-menu > li > a, .media-boxes-drop-down-header,
-  .media-boxes-search{
-    	/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    	font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-weight: 300;*/
-  	}
+  
 
 /* ====================================================================== *
       [1] MEDIA BOX CONTENT
@@ -536,41 +532,10 @@
   }
 
 /* ====================================================================== *
-      [4] SEARCH FILTER
+      [4] 
+FILTER
  * ====================================================================== */
 
-/*
-  .media-boxes-search{     
-      padding: 10px 14px 10px 14px;
-      font-size: 12px;
-      margin: 0;
-      
-      color: #555;
-      vertical-align: middle;
-      background-color: #fff;
-      border: 1px solid #EBEBEB;
-      border-radius: 1px;
-      
-      
-      -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
-              box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
-      
-      
-      -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
-              transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
-
-      -webkit-box-sizing: border-box;
-         -moz-box-sizing: border-box;
-              box-sizing: border-box;
-    }
-    
-    .media-boxes-search:focus {
-      border-color: #66afe9;
-      outline: 0;
-      -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
-              box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
-    }
-*/
 
 /* ====================================================================== *
       [5] DROP DOWN MENU
