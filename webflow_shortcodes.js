@@ -193,7 +193,7 @@ if (window.jQuery) {
   };
 }
 
-var call_info = "<div class='call-out'><div class='call-out-text'>Call for more information:</div><div class='call-out-text 2'>910-577-2231</div></div>"
+var call_info = "<div class='call-out'><div class='call-out-text'>Call for more information:</div><div class='call-out-text _2'>910-577-2231</div></div>"
 
 /* shortcode generator */
 new Shortcode(document.querySelector('body'), {
