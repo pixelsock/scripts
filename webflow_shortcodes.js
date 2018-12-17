@@ -201,3 +201,9 @@ new Shortcode(document.querySelector('body'), {
     return call_info;
   }
 });
+
+$('body').shortcode({
+  shortcode: function() {
+    return "<div class=" + "'" + this.options.id + "'" + "></div>";
+  }
+});
