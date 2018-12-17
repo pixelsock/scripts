@@ -199,6 +199,6 @@ var call_info = "<div class='call-out'><div class='call-out-text'>Call for more 
 
 $('body').shortcode({
   shortcode: function() {
-    return "<div class=" + "'" + this.options.id + "'" + "></div>";
+    return "<div id="shortcode" class=" + "'" + this.options.id + "'" + "></div>";
   }
 });
