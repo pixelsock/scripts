@@ -196,11 +196,6 @@ if (window.jQuery) {
 var call_info = "<div class='call-out'><div class='call-out-text'>Call for more information:</div><div class='call-out-text phone'>910-577-2231</div></div>"
 
 /* shortcode generator */
-new Shortcode(document.querySelector('body'), {
-  phone: function() {
-    return call_info;
-  }
-});
 
 $('body').shortcode({
   shortcode: function() {
