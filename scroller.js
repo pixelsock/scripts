@@ -10,7 +10,7 @@
 FB.api(
   '/charlotteone',
   'GET',
-  {"access_token":"EAADNHAoGEygBAFKTnW2p7XY4dHnkA7Y4hjNeq7rAjfw3z98nVeBz68yAnlkKai9ZA43ZA0ZBVQnYuxwyt9ggsZBtoFwXHSppMgzZBcCXgIxn2V3IdTBETJXWZA8GMrNIJvu9isdTyDZA2v5vXH8yLmwi9QGslh9fPNH64x6KhwJX2ZBDrRivsoUhhqQJVoFwnqgZD",
+  {"access_token":"EAADNHAoGEygBAJkatJU3DLb24ZAoCidfKNWBgYVOhOVkPoZALlwKiWxIsyoqtjJcsTaZCG47imzJvoyGZApl4SDWZBh32bGK69ZAnfyCqI3lHIqedJWidzwyCYFKe4OZApUZB1kVSWNdFZCtZAAXvNAGkekWKywZA4h7aznjHnOjWqXZA2LE9EVOX9KEfeYP6WSZCwxAZD",
     "fields":"events"},
     function(response) {
     $res = response.events.data;
